@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56791'
     url: http://www.gutenberg.org/2009/agents/56791
     wikipedia: https://hu.wikipedia.org/wiki/Jaschik_%C3%81lmos
+covers:
+- cover_type: archival
+  image_path: 72738-h/images/cover.jpg
 creator:
   author:
     agent_name: Benedek, Elek
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39589
     wikipedia: https://hu.wikipedia.org/wiki/Benedek_Elek_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72738#A-csudafa
 gutenberg_issued: '2024-01-17'
 gutenberg_type: Text
 identifiers:
