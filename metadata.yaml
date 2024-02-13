@@ -1,0 +1,40 @@
+_repo: A-csudafa_72738
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Jaschik, Álmos
+    alias: Jaschik, Almos
+    birthdate: 1885
+    deathdate: 1950
+    gutenberg_agent_id: '56791'
+    url: http://www.gutenberg.org/2009/agents/56791
+    wikipedia: https://hu.wikipedia.org/wiki/Jaschik_%C3%81lmos
+creator:
+  author:
+    agent_name: Benedek, Elek
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '39589'
+    url: http://www.gutenberg.org/2009/agents/39589
+    wikipedia: https://hu.wikipedia.org/wiki/Benedek_Elek_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2024-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72738'
+language: hu
+pgterms:marc905: 20240115145323benedek
+pgterms:marc906: '1927'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAczél Testvérek, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- Hungary'
+- !lcc 'PZ'
+- GITenberg
+title: A csudafa
+url: http://www.gutenberg.org/ebooks/72738
